@@ -1,0 +1,9 @@
+NodeJS is an interpreter of a Javascript language that allows you to write JS on your computer outside of your browser.
+Browsers have an built-in JS interpreter, but come with security limitations such as uploading files from your computer, editing them, etc. Node lifts those limits up.
+NPM - node package manager allows you to install third party packages to expand your code functionality.
+Express.js - is a Node.js framework that simplifies a lot of functionality like sending and recieving requests and responses, does a lot of things in a background, and adds a new functionality.
+For storing our data we use databases instead of files, because they are much more effective and quicker to read and write data especially when we're dealing with a lot of records/data.
+With databases we don't have to read the entire file, to search for a piece of information that we're looking for.
+Sequelize - is a mysql third party package that allows you to focus more on writing javascript instead of mysql syntax.
+Files/images shouldn't be stored in a database because they are too big, instead they should be stored on your local machine, and database should just point into their location.
+Pagination - allows you to split data into multiple pages and display only part of your list, and not all of them at the same time.

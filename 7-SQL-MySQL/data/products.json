@@ -1,0 +1,16 @@
+[
+	{
+		"id": "0.34391598505079246",
+		"title": "Berserk",
+		"imageUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5067/9781506712000.jpg",
+		"description": "nice",
+		"price": "40"
+	},
+	{
+		"id": "0.3151887307875878",
+		"title": "konosuba",
+		"imageUrl": "https://m.media-amazon.com/images/I/51eg0yfAJ2L.jpg",
+		"description": "book description",
+		"price": "12"
+	}
+]
