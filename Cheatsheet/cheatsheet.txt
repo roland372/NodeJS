@@ -7,3 +7,4 @@ With databases we don't have to read the entire file, to search for a piece of i
 Sequelize - is a mysql third party package that allows you to focus more on writing javascript instead of mysql syntax.
 Files/images shouldn't be stored in a database because they are too big, instead they should be stored on your local machine, and database should just point into their location.
 Pagination - allows you to split data into multiple pages and display only part of your list, and not all of them at the same time.
+Async, await - will transform your asynchronous code to look like synchronous, will make it more cleaner instead of chaining then and catch blocks all the time.
